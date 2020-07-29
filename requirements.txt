@@ -117,7 +117,7 @@ gunicorn==20.0.4
 h5py==2.10.0
 hdfs3==0.3.0
 html5lib==1.0.1
-httplib2==0.12.1
+httplib2==0.18.0
 hyperlink==19.0.0
 hypothesis==5.16.0
 idna==2.9
