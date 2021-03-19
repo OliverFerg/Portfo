@@ -56,7 +56,7 @@ distlib==0.3.0
 Django==3.0.5
 django-debug-toolbar==2.2
 django-extensions==2.1.6
-djangorestframework==3.9.1
+djangorestframework==3.11.2
 dnspython==1.16.0
 doc8==0.8.0
 docker-py==1.10.6
