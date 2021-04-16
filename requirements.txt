@@ -54,7 +54,7 @@ decorator==4.4.1
 defusedxml==0.6.0
 distlib==0.3.0
 Django==3.0.5
-django-debug-toolbar==2.2
+django-debug-toolbar==2.2.1
 django-extensions==2.1.6
 djangorestframework==3.9.1
 dnspython==1.16.0
