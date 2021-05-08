@@ -67,7 +67,7 @@ dulwich==0.19.11
 ecdsa==0.15
 elasticsearch==7.5.1
 entrypoints==0.3
-eventlet==0.24.1
+eventlet==0.31.0
 execnet==1.6.0
 extras==1.0.0
 filelock==3.0.10
