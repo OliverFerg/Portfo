@@ -157,7 +157,7 @@ locket==0.2.0
 lockfile==0.12.2
 logilab-common==1.4.2
 luigi==2.8.3
-lxml==4.5.0
+lxml==4.6.5
 m2r==0.2.1
 Mako==1.1.1
 Markdown==3.0.1
