@@ -159,7 +159,7 @@ logilab-common==1.4.2
 luigi==2.8.3
 lxml==4.5.0
 m2r==0.2.1
-Mako==1.1.1
+Mako==1.2.2
 Markdown==3.0.1
 MarkupSafe==1.1.1
 matplotlib==3.2.1
